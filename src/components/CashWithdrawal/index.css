@@ -1,0 +1,71 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: white;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.contentContainer {
+  background-color: #150b3e;
+  padding: 20px;
+  border-radius: 10px;
+  width: 30%;
+}
+.initial-container {
+  background-color: #c7d2fe;
+  border-radius: 24px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 48px;
+  width: 48px;
+}
+.initial {
+  color: #150b3e;
+  font-size: 15px;
+}
+.fullName {
+  color: #c7d2fe;
+  font-size: 15px;
+  padding-left: 3px;
+}
+.name-container {
+  display: flex;
+  padding: 5px;
+}
+.yBalance {
+  color: #585076;
+  font-size: 15px;
+}
+.amount {
+  color: #d4d2db;
+  font-size: 25px;
+  font-weight: 900;
+}
+.inRs {
+  color: #585076;
+  font-size: 10px;
+}
+.balanceContainer {
+  display: flex;
+  justify-content: space-between;
+}
+.bal-con {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.withdraw {
+  color: #c4c4c4;
+  font-size: 25px;
+}
+.buttonsList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  padding-left: 0px;
+}

@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.buttonList {
+  list-style: none;
+}
+.button {
+  background-color: #382f5a;
+  padding: 10px;
+  color: #c4c4c4;
+  font-weight: bold;
+  cursor: pointer;
+  outline: none;
+  width: 130%;
+}
